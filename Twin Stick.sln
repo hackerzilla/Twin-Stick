@@ -1,14 +1,18 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twin Stick", "Assembly-CSharp.csproj", "{ABBF0826-89B8-D185-4000-B05DD2508027}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-
+		{ABBF0826-89B8-D185-4000-B05DD2508027}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABBF0826-89B8-D185-4000-B05DD2508027}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABBF0826-89B8-D185-4000-B05DD2508027}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABBF0826-89B8-D185-4000-B05DD2508027}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
