@@ -51,9 +51,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Player.cs" />
+     <Compile Include="Assets\MyReplay.cs" />
+     <Compile Include="Assets\Player\Player.cs" />
      <None Include="Assets\Standard Assets\Fonts\OpenSans\License!.txt" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+     <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>D:/Repos/Unity/Twin Stick/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
